@@ -88,3 +88,5 @@ C:\Dev\Fun\shoppinglist\ShoppingList\ShoppingList\bin\System.Web.Http.Owin.xml
 C:\Dev\Fun\shoppinglist\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csprojResolveAssemblyReference.cache
 C:\Dev\Fun\shoppinglist\ShoppingList\ShoppingList\obj\Debug\ShoppingList.dll
 C:\Dev\Fun\shoppinglist\ShoppingList\ShoppingList\obj\Debug\ShoppingList.pdb
+C:\Dev\Fun\shoppinglist\ShoppingList\ShoppingList\obj\Debug\ShoppingList.Migrations.Initial.resources
+C:\Dev\Fun\shoppinglist\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csproj.GenerateResource.Cache
